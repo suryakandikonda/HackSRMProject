@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=AB:7F:BA:0C:DF:46:BC:C7:5D:D4:58:60:A2:5D:E1:E6:57:F6:29:EF%3Bcom.example.smartqueue
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    AB:7F:BA:0C:DF:46:BC:C7:5D:D4:58:60:A2:5D:E1:E6:57:F6:29:EF
+
+    SHA-1 certificate fingerprint:
+    AB:7F:BA:0C:DF:46:BC:C7:5D:D4:58:60:A2:5D:E1:E6:57:F6:29:EF
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBvFAv83vZbAN1jR7Q3t2ON1vvOQ3M09Oc</string>
+</resources>
